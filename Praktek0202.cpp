@@ -7,5 +7,10 @@ int main(){
 	int niLAi=3;
 	double angka(10.5),Angka,ANGKA(3.14);
 	int a(10),b(7),c(12);
-
+	cout<< a<<endl;
+	cout<< b<<endl;
+	cout<< c<<endl;
+	cout<< angka<<endl;
+	cout<< Angka<<endl;
+	cout<< ANGKA<<endl;
 }
