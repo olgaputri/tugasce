@@ -1,9 +1,10 @@
 #include <iostream>
 using namespace std;
 int main(){
-	int nilai;
-	int nilai1;
 	nilai=nilai+1;
+	int nilai;
+	int 1nilai1;
+
 	cout<<nilai;
-	cout<<nilai1;
+	cout<<1nilai1;
 }
